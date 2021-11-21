@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/34706028/142763154-2ddb233c-edd7-46b6-a139-ba4f3c1f4e97.png)
+
 # Data Science : 6 Real-World Case
 
 This repository contains the code from 6 practical real cases solved with Machine Learning. List of solved cases included in this this repo:
